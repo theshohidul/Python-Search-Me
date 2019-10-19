@@ -5,5 +5,7 @@
 # Features
   - User can search a word and get the result.
   - If the word doesn't found in the dictionary, a message is shown.
+  - If the word doesn't found, suggest probable words to the user.
+  - User can search repeatedly without rerunning script.
 
 
